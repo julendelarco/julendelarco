@@ -1,5 +1,20 @@
 ### Hi there 👋 I'm Julen.
 
+_I'll be a web developer some day_
+
+🦾I'm currently working on an internship doing a research project to make a robotic arm work and understanding the world of robotics and autonomous driving cars
+
+👨‍💻 I know programming in these languages but I never stop learning:
+* HTML
+* CSS
+* JavaScript
+* Java
+* Python
+
+I like design and things looking fancy so I try to do everything I do beautiful.
+
+### Get in touch:
+* LinkedIn: https://www.linkedin.com/in/julen-del-arco/
 <!--
 Here are some ideas to get you started:
 
