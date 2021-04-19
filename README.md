@@ -1,7 +1,7 @@
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15 red`
+
 ### Hi there! 👋 I'm Julen.
 
-_I'll be a web developer some day_
+**I'll be a web developer some day**
 
 🦾I'm currently working on an internship doing a research project to make a robotic arm work and understanding the world of robotics and autonomous driving cars
 
@@ -13,6 +13,8 @@ _I'll be a web developer some day_
 * Python
 
 I like design and things looking fancy so I try to do everything I do beautiful.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💬Get in touch:
 * ⚡LinkedIn: https://www.linkedin.com/in/julen-del-arco/
