@@ -14,7 +14,7 @@
 
 I like design and things looking fancy so I try to do everything I do beautiful.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julendelarco&layout=compact)](https://github.com/julendelarco/julendelarco)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julendelarco&layout=compact)](https://github.com/julendelarco)
 
 ### 💬Get in touch:
 * ⚡LinkedIn: https://www.linkedin.com/in/julen-del-arco/
