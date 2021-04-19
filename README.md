@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Julen.
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15 red`
+### Hi there! 👋 I'm Julen.
 
 _I'll be a web developer some day_
 
@@ -13,8 +14,8 @@ _I'll be a web developer some day_
 
 I like design and things looking fancy so I try to do everything I do beautiful.
 
-### Get in touch:
-* LinkedIn: https://www.linkedin.com/in/julen-del-arco/
+### 💬Get in touch:
+* ⚡LinkedIn: https://www.linkedin.com/in/julen-del-arco/
 <!--
 Here are some ideas to get you started:
 
