@@ -6,7 +6,7 @@
 
 🦾I'm currently working on an internship doing a research project to make a robotic arm work and understanding the world of robotics and autonomous driving cars
 
-👨‍💻 I know programming in these languages but I never stop learning:
+👨‍💻 I know these languages but I never stop learning:
 * HTML
 * CSS
 * JavaScript
